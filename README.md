@@ -44,3 +44,9 @@ An educational case study using the IBM Telco sample. Includes missing-value han
 - Communicate findings, suggested next steps and what the data cannot prove.
 
 These are portfolio and educational projects developed with AI assistance. Each project explains its sources, methods and limitations; no client engagement or realized business impact is claimed. Power BI and Excel refresh steps that have not been tested in their desktop applications are identified in the project documentation.
+
+## Reviewing the projects
+
+Each featured project includes a worked analytical question, a query, a measured result and an interpretation. The Python analyses have automated validation workflows and documented dependency versions. View their Actions pages for the current run status.
+
+My next development step is to add my own follow-up analysis and verify the desktop Power BI/Excel workflows. These are learning goals, not completed claims.
