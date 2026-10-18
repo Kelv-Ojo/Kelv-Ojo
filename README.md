@@ -1,5 +1,7 @@
 # Hi, I'm Kelvin
 
+[LinkedIn](https://www.linkedin.com/in/kelvin-o-436359174/)
+
 I'm building a career in **data analysis**, with projects that turn raw data into clear reports, useful comparisons and practical questions for a business to investigate.
 
 My portfolio focuses on **SQL, Python, Excel and Power BI**, with attention to metric definitions, data quality and communicating limitations.
