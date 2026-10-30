@@ -1,0 +1,227 @@
+[
+  {
+    "name": "python",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    "file": "assets/icons/python.svg",
+    "sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2"
+  },
+  {
+    "name": "numpy",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg",
+    "file": "assets/icons/numpy.svg",
+    "sha256": "efd53b9bf8637500d43ece39fe7ac43c972066f7166e408c5fd13e7cb73d7a05"
+  },
+  {
+    "name": "pandas",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg",
+    "file": "assets/icons/pandas.svg",
+    "sha256": "0051003a5e5f8739c3304386456843a51be4717dab49c4fea6732ecc6e891b3d"
+  },
+  {
+    "name": "matplotlib",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg",
+    "file": "assets/icons/matplotlib.svg",
+    "sha256": "c93696650c82f3c87b0c7228b501187feab0c10326249ffa1ea8b4c196e57f1b"
+  },
+  {
+    "name": "scikitlearn",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg",
+    "file": "assets/icons/scikitlearn.svg",
+    "sha256": "d60362a1c43c5571876ebaab923f7783f6f7d3bd64bd78cca765a451dc5e92e2"
+  },
+  {
+    "name": "git",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    "file": "assets/icons/git.svg",
+    "sha256": "717a57ea97bf7e86de721dab3e68afac66332a10676d5c9abce4ae6a5a9c9983"
+  },
+  {
+    "name": "github",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg",
+    "file": "assets/icons/github.svg",
+    "sha256": "45262793de6292206a895ed63593cdb1eaed82074173f7f4b5bdb3e427ca805a"
+  },
+  {
+    "name": "sqlite",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg",
+    "file": "assets/icons/sqlite.svg",
+    "sha256": "2b91c30887d3602479ba845cc012ef6ae577fba71eb96705a05b12e35d2c5e7e"
+  },
+  {
+    "name": "streamlit",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg",
+    "file": "assets/icons/streamlit.svg",
+    "sha256": "e6d3baa8583e9c812b228f4f507d8f386898d05a65ef787fe34b54435a6f4cea"
+  },
+  {
+    "name": "Excel",
+    "source": "Existing portfolio icon markup",
+    "file": "assets/icons/excel.svg"
+  },
+  {
+    "name": "Power BI",
+    "source": "Existing portfolio icon markup",
+    "file": "assets/icons/powerbi.svg"
+  },
+  {
+    "name": "Microsoft SQL Server",
+    "source": "Existing portfolio icon markup",
+    "file": "assets/icons/sqlserver.svg"
+  },
+  {
+    "name": "python",
+    "url": "https://img.shields.io/badge/Python-3776AB?style=flat-square",
+    "file": "assets/badges/python.svg",
+    "sha256": "116e5b6dff65f8b0879974ae71249e7309b9a5f7f812930c00241bcc41517f4d"
+  },
+  {
+    "name": "sql",
+    "url": "https://img.shields.io/badge/SQL-4169E1?style=flat-square",
+    "file": "assets/badges/sql.svg",
+    "sha256": "ec72dfab350fce3732c0e403b9149ba1a5b13b3272b6aab8f3fef1ddb237b6ab"
+  },
+  {
+    "name": "pandas",
+    "url": "https://img.shields.io/badge/pandas-150458?style=flat-square",
+    "file": "assets/badges/pandas.svg",
+    "sha256": "ccd6da9f215124f903eee614c96e561c2f9a4c0499134e6ae3ec3f8aa2b6ba61"
+  },
+  {
+    "name": "numpy",
+    "url": "https://img.shields.io/badge/NumPy-4DABCF?style=flat-square",
+    "file": "assets/badges/numpy.svg",
+    "sha256": "c91e5fc10ebb067b19d0662cde384cb19d7af343792688b1dc978cafefc8cafd"
+  },
+  {
+    "name": "matplotlib",
+    "url": "https://img.shields.io/badge/Matplotlib-236789?style=flat-square",
+    "file": "assets/badges/matplotlib.svg",
+    "sha256": "a68955ec2563081db02c9791900f842da7f5a7c1157051a447dcc819af4f34bd"
+  },
+  {
+    "name": "powerbi",
+    "url": "https://img.shields.io/badge/Power%20BI-A67900?style=flat-square",
+    "file": "assets/badges/powerbi.svg",
+    "sha256": "5734fd8ed5a895cc07bf8414bb763170379657d782b1d66f717334a01643a567"
+  },
+  {
+    "name": "excel",
+    "url": "https://img.shields.io/badge/Excel-217346?style=flat-square",
+    "file": "assets/badges/excel.svg",
+    "sha256": "d210c4f8362ba9b8dfdb4106982176a61e5efa671430b292603d1e3a9aff158e"
+  },
+  {
+    "name": "sklearn",
+    "url": "https://img.shields.io/badge/scikit-learn-C06C16?style=flat-square",
+    "file": "assets/badges/sklearn.svg",
+    "sha256": "11e416938dd1dcb08529c632dc40c77e7726ee63287fc50b994ae63b7b60cc3a"
+  },
+  {
+    "name": "xgboost",
+    "url": "https://img.shields.io/badge/XGBoost%20%C2%B7%20dissertation-5C7B32?style=flat-square",
+    "file": "assets/badges/xgboost.svg",
+    "sha256": "4fb9e49fe7467de5e16835dddadbbc13ad64da62bf2e2bde0f235ea691b8ba2c"
+  },
+  {
+    "name": "arima",
+    "url": "https://img.shields.io/badge/ARIMA%20%C2%B7%20dissertation-665896?style=flat-square",
+    "file": "assets/badges/arima.svg",
+    "sha256": "3743557b68b5bd1a258e3ec2fe346e0ce98a9925c210f736ca2550a895a06185"
+  },
+  {
+    "name": "git",
+    "url": "https://img.shields.io/badge/Git-C54E30?style=flat-square",
+    "file": "assets/badges/git.svg",
+    "sha256": "1b530091e7decaf96a11a817043aeac0b1506be0fbc119b0b3cc6942bc7fbd9d"
+  },
+  {
+    "name": "github",
+    "url": "https://img.shields.io/badge/GitHub-24292F?style=flat-square",
+    "file": "assets/badges/github.svg",
+    "sha256": "c252d64e83988fd767581814b3a447cbc56dc0728f29c97822cc1aae63727ce8"
+  },
+  {
+    "name": "sqlite",
+    "url": "https://img.shields.io/badge/SQLite-226B90?style=flat-square",
+    "file": "assets/badges/sqlite.svg",
+    "sha256": "7debdb429dfe19edb0a7d49cd1ef21c9ea6127a3f6f7ebd5d63978e79bb9e3a9"
+  },
+  {
+    "name": "sqlserver",
+    "url": "https://img.shields.io/badge/SQL%20Server%20%C2%B7%20exercises-9D2929?style=flat-square",
+    "file": "assets/badges/sqlserver.svg",
+    "sha256": "8c34d4d08eded79737489e1a3f9d95ac8c011ff2b64ca2ff7e65f0dec551c71d"
+  },
+  {
+    "name": "streamlit",
+    "url": "https://img.shields.io/badge/Streamlit-D93546?style=flat-square",
+    "file": "assets/badges/streamlit.svg",
+    "sha256": "07e2af42af2b66373d5052000ce5a9545583f05523e530b4b5a136a34e708ace"
+  },
+  {
+    "name": "portfolio",
+    "url": "https://img.shields.io/badge/Portfolio-172238?style=flat-square",
+    "file": "assets/badges/portfolio.svg",
+    "sha256": "936597f6adeb831a16b8156f1475384ca421db22bcb9d6af09ec91161b5f568f"
+  },
+  {
+    "name": "linkedin",
+    "url": "https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square",
+    "file": "assets/badges/linkedin.svg",
+    "sha256": "56fafbe04467d42cf43d56e332f08e2093161fc0bc7765521907e069376c0953"
+  },
+  {
+    "name": "email",
+    "url": "https://img.shields.io/badge/Email-536271?style=flat-square",
+    "file": "assets/badges/email.svg",
+    "sha256": "76cc82be3a7737f5c3461cc1da1fe276ec167463c6ea45dc7ce718a128527bd0"
+  },
+  {
+    "name": "Pull Shark",
+    "url": "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png",
+    "file": "assets/pull-shark.png",
+    "sha256": "d922b35c3d7c531d26564357fc4ad810085fced9943b455747afd7b251e74a7e"
+  },
+  {
+    "name": "hotel.png",
+    "source": "hotel-booking-analysis/excel/report-preview.png",
+    "file": "assets/projects/hotel.png",
+    "sha256": "18114733fe57f640a134ac98b3fd1af0b8dbee6dcc193b7029574b892d219ae5"
+  },
+  {
+    "name": "energy.png",
+    "source": "uk-energy-analysis/reports/sector_trends.png",
+    "file": "assets/projects/energy.png",
+    "sha256": "3f9c072e0d711c483cf9b62b711294e39c199a0342e8430a38dc14d5f1e9dda9"
+  },
+  {
+    "name": "churn.png",
+    "source": "telco-churn-analysis/reports/contract_churn.png",
+    "file": "assets/projects/churn.png",
+    "sha256": "2d26ff980c29d993c622f6f4a53ff3673974ab6205d707f25600f760015aebc2"
+  },
+  {
+    "name": "sales.png",
+    "source": "Dashboard-sales/reports/annual_sales.png",
+    "file": "assets/projects/sales.png",
+    "sha256": "241bff2b97c5a892a0160394633a12fb40882bcdcbc354ef1b12b82f10147cc2"
+  },
+  {
+    "name": "html",
+    "url": "original local SVG label",
+    "file": "assets/badges/html.svg",
+    "sha256": "dd21871b95c8bbdd407192953a12e72e27032a1d9edfed5844e56f315fe15236"
+  },
+  {
+    "name": "css",
+    "url": "original local SVG label",
+    "file": "assets/badges/css.svg",
+    "sha256": "a74ddf8ff3994b90d0ade7260769ce37d9f7820ffc49d47b39166aea448ae919"
+  },
+  {
+    "name": "javascript",
+    "url": "original local SVG label",
+    "file": "assets/badges/javascript.svg",
+    "sha256": "3cb80a7db9093aa87b0ab549d71f97590b3c58bedbaab8fa6aa43b0ed81cf437"
+  }
+]
